@@ -1,0 +1,9 @@
+Aka         赤
+Aoi         青い
+Kiiro       黄色
+Orenji      オレンジ
+Midori      緑
+Murasakino  紫の
+Kuro        黒
+Chairo      茶色
+Shiro       白
