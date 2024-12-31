@@ -185,7 +185,7 @@ class Menu () :
         self.offset = offset
         self.cards = [ [card.value, card.color, self.chances] for card in cards ]
         
-        self.font = pygame.font.Font(["FressSans.ttf", "bitstream-cyberbit.ttf"], 32, bold = True, italic = False)        
+        self.font = pygame.font.Font("bitstream-cyberbit.ttf", 32, bold = True, italic = False)        
         #font_file = pygame.font.match_font(unifont-15.1.05.ttf)  # Select and 
         #self.font = pygame.font.Font(font_file, 30)          # open the font
         
